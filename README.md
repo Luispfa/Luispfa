@@ -9,15 +9,15 @@
 
 - 👯 My YouTube Chanel [fitCoding-luispfa](https://www.youtube.com/@fitCoding-luispfa)
 
-- 👨‍💻 All of my projects are available at [GitHub Luispfa](https://github.com/Luispfa?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub repositories](https://github.com/Luispfa?tab=repositories)
 
-- 📝 I regularly write articles on [LinkedIn Articles/](https://www.linkedin.com/in/luisfloresa/recent-activity/articles/)
+- 📝 I regularly write articles on [LinkedIn Articles](https://www.linkedin.com/in/luisfloresa/recent-activity/articles/)
 
 - 💬 Ask me about **PHP, Symfony, Hexagonal Architecture, TDD**
 
 - 📫 How to reach me **luispfa@gmail.com**
 
-- 📄 Know about my experiences [Linkedin profile](https://www.linkedin.com/in/luisfloresa/)
+- 📄 Know about my experiences [LinkedIn profile](https://www.linkedin.com/in/luisfloresa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
