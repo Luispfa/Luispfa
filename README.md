@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispfa&label=Profile%20views&color=0e75b6&style=flat" alt="luispfa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luispfa" alt="luispfa" /></a> </p>
-
 - 🔭 I’m currently working on Hexagonal Architecture [Library](https://github.com/Luispfa/library)
 
 - 🌱 I’m interested in **Value Object, CQRS, DDD, Event Source, etc**
