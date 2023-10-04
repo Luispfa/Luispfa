@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispfa&label=Profile%20views&color=0e75b6&style=flat" alt="luispfa" /> </p>
 
-- 🔭 I’m currently working on Hexagonal Architecture [Library](https://github.com/Luispfa/library)
+- 🔭 I’m currently working on Hexagonal Architecture [Library](https://github.com/Luispfa/library/blob/main/README.md)
 
 - 🌱 I’m interested in **Value Object, CQRS, DDD, Event Source, etc**
 
