@@ -5,6 +5,9 @@
 
 - 🔭 I’m currently working on Hexagonal Architecture [Library](https://github.com/Luispfa/library/blob/main/README.md)
 
+- 🚀 My latest project: **RabbitMQ High Availability with Symfony 7**  
+  [sf7-rabbitmq-ha](https://github.com/Luispfa/sf7-rabbitmq-ha) - A high-availability message broker implementation using RabbitMQ, Symfony 7, and Hexagonal Architecture.
+
 - 🌱 I’m interested in **Value Object, CQRS, DDD, Event Source, etc**
 
 - 👯 My YouTube Chanel [fitCoding-luispfa](https://www.youtube.com/@fitCoding-luispfa)
