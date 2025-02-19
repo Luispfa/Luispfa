@@ -7,7 +7,7 @@
    Implementated with Symfony 6, PHP 8.2 and Hexagonal Architecture.
 
  - 🚀 My latest project: **RabbitMQ High Availability with Symfony** [RabbitMQ Project](https://github.com/Luispfa/sf7-rabbitmq-ha/blob/main/README.md)  
-    A high-availability message broker implementation using RabbitMQ, Symfony 7, PHP 8.3 and Hexagonal Architecture.
+    A high-availability message broker implementation using RabbitMQ, Redis, Symfony 7, PHP 8.3 and Hexagonal Architecture.
 
 - 🌱 I’m interested in **Value Object, CQRS, DDD, Event Source, etc**
 
