@@ -10,7 +10,7 @@
     A high-availability message broker implementation using RabbitMQ, Redis, Symfony 7, PHP 8.3 and Hexagonal Architecture.
 
 - 🚀 This project is a implementation of **Python with FastAPI** [Python - FastAPI Project](https://github.com/Luispfa/python-fastapi/blob/main/README.md)  
-    A high-availability message broker implementation using Python 3.11, FastApi, uvicorn.
+    A implementation using Python 3.11, FastApi, uvicorn.
   
 - 🌱 I’m interested in **Value Object, CQRS, DDD, Event Source, etc**
 
