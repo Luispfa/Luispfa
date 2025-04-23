@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Flores</h1>
 <h3 align="center">An passionate about PHP, Symfony, Hexagonal Architecture, TDD, DDD, clean code, and best practices.</h3>
-
+<h3 align="center">Currently exploring the fascinating worlds of Python and Artificial Intelligence.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispfa&label=Profile%20views&color=0e75b6&style=flat" alt="luispfa" /> </p>
 
 - 🔭 This project is a implementation of the **Hexagonal Architecture with Symfony** [Library Project](https://github.com/Luispfa/library/blob/main/README.md)  
