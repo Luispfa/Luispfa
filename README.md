@@ -6,9 +6,12 @@
 - 🔭 This project is a implementation of the **Hexagonal Architecture with Symfony** [Library Project](https://github.com/Luispfa/library/blob/main/README.md)  
    Implementated with Symfony 6, PHP 8.2 and Hexagonal Architecture.
 
- - 🚀 My latest project: **RabbitMQ High Availability with Symfony** [RabbitMQ Project](https://github.com/Luispfa/sf7-rabbitmq-ha/blob/main/README.md)  
+ - 🚀 This project is a implementation of the **RabbitMQ High Availability with Symfony** [RabbitMQ Project](https://github.com/Luispfa/sf7-rabbitmq-ha/blob/main/README.md)  
     A high-availability message broker implementation using RabbitMQ, Redis, Symfony 7, PHP 8.3 and Hexagonal Architecture.
 
+- 🚀 This project is a implementation of the **Python with FastAPI** [FastAPI Project](https://github.com/Luispfa/python-fastapi/blob/main/README.md)  
+    A high-availability message broker implementation using Python 3.11, FastApi, uvicorn.
+  
 - 🌱 I’m interested in **Value Object, CQRS, DDD, Event Source, etc**
 
 - 👯 My YouTube Chanel [fitCoding-luispfa](https://www.youtube.com/@fitCoding-luispfa)
